@@ -1,0 +1,26 @@
+{
+  "name": "dropdown-menu",
+  "version": "1.0.0",
+  "description": "Reusable Drop Down Menu Code",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeferro-idy/dropdown-menu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeferro-idy/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/mikeferro-idy/dropdown-menu#readme",
+  "devDependencies": {
+    "prettier": "2.8.1"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.1.96"
+  }
+}
